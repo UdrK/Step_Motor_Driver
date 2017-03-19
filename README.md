@@ -1,4 +1,4 @@
-<h1> Telescope_Focuser </h1>
+<h1> Step_Motor_Driver </h1>
 <h3> Raspberry Driven Telescope Focuser (RDTF) </h3>
 
 This code is meant to let you control a 28BYJ-48 step motor via ULN2003.<br> In my case i use the motor to smoothly focus my telescope.<br><br>
